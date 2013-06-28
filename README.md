@@ -22,4 +22,4 @@ Alfred extension to control 8Tracks fluid.app with hotkeys &amp; commands
 
 Click to install:
 
-[![Install](http://media.alfredapp.com/scripts/downloadextension.png)](https://github.com/LubergAlexander/8Tracks-Controls/blob/master/8Tracks%20Controls.alfredextension)
+[![Install](http://media.alfredapp.com/scripts/downloadextension.png)](https://github.com/LubergAlexander/8Tracks-Controls/blob/master/8Tracks%20Controls.alfredextension?raw=true)
