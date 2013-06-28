@@ -1,14 +1,14 @@
 8Tracks-Controls
 ================
 
-# Dependencies
+## Dependencies
 * http://fluidapp.com
 * http://www.alfredapp.com (This one is for Alfred.app 1.0)
 
-# Description
+## Description
 Alfred extension to control 8Tracks fluid.app with hotkeys &amp; commands
 
-# Usage
+## Usage
 1) Make an application with Fluid.app for 8tracks.com and call it 8tracks  
 2) Install the user script to your 8tracks.app to turn on volume controls and notifications  
 3) Install the Alfred extension and hook it up with some nice hotkeys to call the extension with one of the following parameters:  
@@ -17,3 +17,9 @@ Alfred extension to control 8Tracks fluid.app with hotkeys &amp; commands
 * stop
 * pause
 * number from 0 to 100 to change the volume
+
+## Installation
+
+Click to install:
+
+[![Install](http://media.alfredapp.com/scripts/downloadextension.png)](https://github.com/LubergAlexander/8Tracks-Controls/blob/master/8Tracks%20Controls.alfredextension)
